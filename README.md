@@ -71,7 +71,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-This **README** provides a clear, concise overview of the project and guides the user through installation and usage. Let me know if you'd like to add any specific details!
+This **README** provides a clear, concise overview of the project and guides the user through installation and usage.
 
 ### Author Links
 
