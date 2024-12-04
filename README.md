@@ -1,6 +1,5 @@
 # rbac-system
 
-# "NextAuth.js Role-Based Access Control"
 
 ## User Authorization & Protected Routes
 
