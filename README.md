@@ -1,4 +1,4 @@
-# VRV-Assinment-Role-based-Application-Control
+# VRV-Assignment-Role-based-Application-Control
 
 
 ## User Authorization & Protected Routes
