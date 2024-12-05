@@ -62,10 +62,6 @@ This project demonstrates how to implement **Role-Based Access Control (RBAC)** 
   | Image 1 | Image 2 |
   |---------|---------|
   | ![Image 1](./Screenshots/signoutpage.png) | ![Image 2](./Screenshots/user-page.png) |
-  <p align="center">
-  <img src="./Screenshots/signoutpage.png" alt="Image 1" width="45%" />
-  <img src="./Screenshots/user-page.png" alt="Image 2" width="45%" />
-  </p>
 
 ## References
 
