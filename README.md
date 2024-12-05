@@ -1,4 +1,4 @@
-# rbac-system
+# VRV-Assinment-Role-based-Application-Control
 
 
 ## User Authorization & Protected Routes
@@ -62,6 +62,19 @@ This project demonstrates how to implement **Role-Based Access Control (RBAC)** 
   | Signinpage | Signoutpage |
   |---------|---------|
   | ![Image 1](./Screenshots/signin-page.png) | ![Image 2](./Screenshots/signoutpage.png) |
+  
+  | PublicHomePage | ServerAdminPage |
+  |---------|---------|
+  | ![Image 1](./Screenshots/public-homepage.png) | ![Image 2](./Screenshots/server-admin-page.png) |
+
+  | ClientManagerpage | ManagerExtraFieldDeniedpage |
+  |---------|---------|
+  | ![Image 1](./Screenshots/client-manager-page.png) | ![Image 2](./Screenshots/manager-extrafield-deniedpage.png) |
+
+  | Userpage | UserClientDeniedpage |
+  |---------|---------|
+  | ![Image 1](./Screenshots/user-page.png) | ![Image 2](./Screenshots/user-client-denied.png) |
+  
 
 ## References
 
