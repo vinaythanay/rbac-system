@@ -59,9 +59,9 @@ This project demonstrates how to implement **Role-Based Access Control (RBAC)** 
 - The UI dynamically adjusts based on the user’s role and preferred theme (light/dark mode).
 
 ## Application Outputs
-  | Image 1 | Image 2 |
+  | Signinpage | Signoutpage |
   |---------|---------|
-  | ![Image 1](./Screenshots/signoutpage.png) | ![Image 2](./Screenshots/user-page.png) |
+  | ![Image 1](./Screenshots/signin-page.png) | ![Image 2](./Screenshots/signoutpage.png) |
 
 ## References
 
