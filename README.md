@@ -58,8 +58,8 @@ This project demonstrates how to implement **Role-Based Access Control (RBAC)** 
 - Admins will have access to all pages, while regular users will be restricted from certain pages.
 - The UI dynamically adjusts based on the user’s role and preferred theme (light/dark mode).
 
-  ## Application Outputs
-  ![SignOut Page Screenshot](./Screenshots/signoutpage%20.png)
+## Application Outputs
+  ![SignOut Page Screenshot](./Screenshots/signoutpage.png)
 
 ## References
 
