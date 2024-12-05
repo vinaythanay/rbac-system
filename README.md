@@ -73,7 +73,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 This **README** provides a clear, concise overview of the project and guides the user through installation and usage.
 
 ## Application Outputs
-![Server Page Screenshot](./screenshots/Screenshot%20(308).png)
+![Server Page Screenshot](./Screenshots/Screenshot%20(308).png)
 
 
 ### Author Links
